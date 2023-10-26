@@ -1,0 +1,21 @@
+a{
+	text-decoration: none;
+}
+.bg-orange{
+	background-color: #ff6b59!important;
+}
+.text-orange{
+	color: #ff6b59!important;
+}
+.bg-dark2{
+	background-color: #272e36!important;
+}
+.bg-dark1{
+	background-color: #232931!important;
+}
+.z-index{
+	z-index: 999!important;
+}
+.fs-2{
+	font-size: 31px!important;
+}
